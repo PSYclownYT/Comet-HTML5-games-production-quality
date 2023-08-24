@@ -1,0 +1,44 @@
+Acquire and pilot a fleet of unmanned submersible vehicles to explore the oceans and underwater terrain. How deep can you go?
+
+The game requires about 2-3 hours to complete.
+Save codes are available (go to the main menu). They are quite long so do not post them in the comments.
+
+- Mouse and keyboard required.
+- Turbowarp highly recommended (less lag):
+https://turbowarp.org/811805586
+- The green flag does not reset the game.
+
+[W][A][S][D] - movement
+[mouse] - aim/use tool
+[E] - view inventory
+[L] - toggle light
+[P] - add waypoint
+[I] - toggle waypoint visibility
+[M] - map
+[X] - delete (for hovered objects)
+
+BASIC GUIDE:
+Most of this information can be learnt through the in-game tutorial.
+
+Explore the world and upgrade your submersibles through collected resources (mined in the world) or funds (scanning, achievements, and more).
+
+You are able to change hulls and swap out every part that makes it function including batteries, thrusters, and tools. Parts can be stacked. 2 thrusters for example will make your sub move faster than 1. Experiment and see what configurations work for you.
+
+Your "home" is a ship. All operations begin and end here. Returning to your ship will allow you to recharge, repair, and deposit collected resources. Upgrades can be made at your ship.
+
+Don't lose your submersible! Make sure you have enough battery to return. Death in this game is losing your sub and all the parts and items carried on it. You may launch a second submersible to recover items from the site it was lost at. If a locator beacon was installed on the sub that was lost, there are higher chances of item recovery.
+
+Your submersible has a limit on how far it can travel as well, indicated by "comms range". This can be doubled with the installation of a communications booster part. Travelling out of range risks it being lost, a result similar to running out of power.
+
+---
+
+This project was originally started over 1.5 years ago. I spent hundreds of hours working on it. Finally it's finished!
+
+Credits are inside the project and are also shown when the game is completed. Majority of the art is created or edited by me.
+
+This game was initially inspired by this:
+https://ldjam.com/events/ludum-dare/48/descending-2
+
+submarine != submersible
+
+If you are having issues with your save, paste them here and I will try to help: https://scratch.mit.edu/discuss/topic/666985/
